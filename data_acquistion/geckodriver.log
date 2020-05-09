@@ -1,0 +1,19 @@
+1588656830981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yV2fhFu3zfrR"
+1588656838935	Marionette	INFO	Enabled via --marionette
+GLib-GIO-Message: 02:33:59.836: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1588656848186	Marionette	INFO	Listening on port 46505
+1588656848256	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588656848309	Marionette	DEBUG	Register listener.js for window 2147483649
+1588656919790	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XrkVUJygu6LV"
+1588656920452	Marionette	INFO	Enabled via --marionette
+GLib-GIO-Message: 02:35:20.503: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1588656925881	Marionette	INFO	Listening on port 45313
+1588656925913	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588656925974	Marionette	DEBUG	Register listener.js for window 2147483649
+1588656942132	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1588656942465	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1588656942466	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1588656944159	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://covid.saude.gov.br/"
+1588656945818	Marionette	DEBUG	Received DOM event "pageshow" for "https://covid.saude.gov.br/"
+1588657152476	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1588657188383	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
